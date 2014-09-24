@@ -13,6 +13,8 @@
 		56ADC63E19D3456D004AD269 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56ADC63D19D3456D004AD269 /* Images.xcassets */; };
 		56ADC64119D3456D004AD269 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 56ADC63F19D3456D004AD269 /* LaunchScreen.xib */; };
 		56ADC64D19D3456D004AD269 /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56ADC64C19D3456D004AD269 /* postcardTests.swift */; };
+		56ADC65819D34626004AD269 /* mickeyMouse256x256.png in Resources */ = {isa = PBXBuildFile; fileRef = 56ADC65619D34626004AD269 /* mickeyMouse256x256.png */; };
+		56ADC65919D34626004AD269 /* wasp.png in Resources */ = {isa = PBXBuildFile; fileRef = 56ADC65719D34626004AD269 /* wasp.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		56ADC64619D3456D004AD269 /* postcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56ADC64B19D3456D004AD269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		56ADC64C19D3456D004AD269 /* postcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardTests.swift; sourceTree = "<group>"; };
+		56ADC65619D34626004AD269 /* mickeyMouse256x256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mickeyMouse256x256.png; sourceTree = "<group>"; };
+		56ADC65719D34626004AD269 /* wasp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wasp.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		56ADC63419D3456D004AD269 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				56ADC65619D34626004AD269 /* mickeyMouse256x256.png */,
+				56ADC65719D34626004AD269 /* wasp.png */,
 				56ADC63519D3456D004AD269 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,7 +199,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				56ADC63C19D3456D004AD269 /* Main.storyboard in Resources */,
+				56ADC65919D34626004AD269 /* wasp.png in Resources */,
 				56ADC64119D3456D004AD269 /* LaunchScreen.xib in Resources */,
+				56ADC65819D34626004AD269 /* mickeyMouse256x256.png in Resources */,
 				56ADC63E19D3456D004AD269 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
